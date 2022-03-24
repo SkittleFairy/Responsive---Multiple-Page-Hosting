@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(247, 233, 166) !important;
+}
+
+h1,
+p {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.page-links {
+  text-align: center;
+}
+
+.page-links a {
+  color: green;
+  margin: 0 10px;
+  padding-bottom: 15px;
+}
+
+.croissant {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
